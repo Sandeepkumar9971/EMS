@@ -1,0 +1,87 @@
+
+###############################################
+2783( Submit By : Rahul) At (23.10.2023 4:36:23 AM)
+VCloud_Post_InfoPool_PFD{P)
+Invalid column name 'PreparedByEmployeeID'.
+Invalid column name 'ApprovedByEmployeeID'.
+Could not use view or function 'VCloud_View_Post_InfoPool_PFD_From_PFDV7_1' because of binding errors.
+Invalid column name 'PreparedByEmployeeID'.
+Invalid column name 'ApprovedByEmployeeID'.
+Could not use view or function 'VCloud_View_Post_InfoPool_PFD_From_PFDV7_1' because of binding errors.
+###############################################
+2894( Submit By : bhavya) At (25.10.2023 5:53:03 AM)
+VCloud_Post_PendingPool_Production{P)
+Column name or number of supplied values does not match table definition.
+###############################################
+2994( Submit By : rahul) At (27.10.2023 1:40:39 AM)
+VCloud_Post_PendingPool_Cheque{P)
+Column name or number of supplied values does not match table definition.
+###############################################
+3057( Submit By : Deep) At (27.10.2023 9:39:32 PM)
+SplitToTable{FN)
+There is already an object named 'SplitToTable' in the database.
+###############################################
+3085( Submit By : Sandeep) At (27.10.2023 10:50:45 PM)
+EmsNet_Proc_PurchaseOrderV7_Details_Button_Ammendment_OpenForm{P)
+Invalid column name 'UnitID'.
+Invalid column name 'UnitID'.
+###############################################
+3210( Submit By : Sandeep) At (28.10.2023 5:07:53 AM)
+VCloud_Post_PendingPool_Requisition{P)
+Column name or number of supplied values does not match table definition.
+###############################################
+3234( Submit By : rahul) At (28.10.2023 5:50:52 AM)
+VCloud_Post_InfoPool_SaleOrder{P)
+Column name or number of supplied values does not match table definition.
+###############################################
+3242( Submit By : rahul) At (28.10.2023 5:52:47 AM)
+VCloud_Post_InfoPool_SaleOrder{P)
+Column name or number of supplied values does not match table definition.
+###############################################
+3853( Submit By : Sandeep) At (02.11.2023 5:00:34 AM)
+EmsNet_Proc_PurchaseOrderV7_MainForm_Collection_DataLoad{P)
+Invalid column name 'IndentBy'.
+Invalid column name 'PlaceofSupply'.
+###############################################
+4086( Submit By : Sandeep) At (04.11.2023 3:43:37 AM)
+EmsNet_View_OperationMasterV7_MainForm_Collection_Find_AdvancedRecords{V)
+There is already an object named 'EmsNet_View_PFDV7_MainForm_Collection_Find_AdvancedRecordsEmsNet_View_OperationMasterV7_MainForm_Collection_Find_AdvancedRecords' in the database.
+###############################################
+4262( Submit By : bhavya) At (07.11.2023 11:45:14 AM)
+VCloud_View_Post_InfoPool_ChallanOut_From_ChallanOutV7_6{V)
+Invalid column name 'LotID6'.
+Invalid column name 'Qty6'.
+###############################################
+4263( Submit By : bhavya) At (07.11.2023 11:45:15 AM)
+VCloud_View_Post_InfoPool_ChallanOut_From_ChallanOutV7_5{V)
+Invalid column name 'LotID5'.
+Invalid column name 'Qty5'.
+###############################################
+4264( Submit By : bhavya) At (07.11.2023 11:45:15 AM)
+VCloud_View_Post_InfoPool_ChallanOut_From_ChallanOutV7_4{V)
+Invalid column name 'LotID4'.
+Invalid column name 'Qty4'.
+###############################################
+4265( Submit By : bhavya) At (07.11.2023 11:45:16 AM)
+VCloud_View_Post_InfoPool_ChallanOut_From_ChallanOutV7_3{V)
+Invalid column name 'LotID3'.
+Invalid column name 'Qty3'.
+###############################################
+4266( Submit By : bhavya) At (07.11.2023 11:45:17 AM)
+VCloud_View_Post_InfoPool_ChallanOut_From_ChallanOutV7_2{V)
+Invalid column name 'LotID2'.
+Invalid column name 'Qty2'.
+###############################################
+4267( Submit By : bhavya) At (07.11.2023 11:45:17 AM)
+VCloud_View_Post_InfoPool_ChallanOut_From_ChallanOutV7_1{V)
+Invalid column name 'LotID1'.
+Invalid column name 'Qty1'.
+###############################################
+4787( Submit By : Sandeep) At (10.11.2023 10:34:45 AM)
+EmsNet_Proc_PurchaseOrderV8_MainForm_Collection_DataLoad{P)
+Invalid column name 'IndentBy'.
+Invalid column name 'PlaceofSupply'.
+###############################################
+5309( Submit By : rahul) At (16.11.2023 5:28:22 PM)
+VCloud_Post_InfoPool_SaleBillBookTrader{P)
+Column name or number of supplied values does not match table definition.

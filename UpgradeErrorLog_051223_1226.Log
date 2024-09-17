@@ -1,0 +1,21 @@
+
+###############################################
+6855( Submit By : rahul) At (04.12.2023 5:01:28 PM)
+VCloud_InfoPool_SaleOrder{U)
+Invalid object name 'TempDB.Dbo.VCloud_InfoPool_SaleOrder'.
+###############################################
+6856( Submit By : rahul) At (04.12.2023 5:01:31 PM)
+VCloud_PendingPool_SaleSchedule{U)
+Invalid object name 'TempDB.Dbo.VCloud_PendingPool_SaleSchedule'.
+###############################################
+6862( Submit By : Sandeep) At (04.12.2023 5:14:47 PM)
+EmsNet_Dbase_SaleOrderV7_Config{U)
+Invalid object name 'TempDB.Dbo.EmsNet_Dbase_SaleOrderV7_Config'.
+###############################################
+6871( Submit By : Sandeep) At (04.12.2023 6:08:04 PM)
+EmsNet_Dbase_PurchaseOrderV8_Details{U)
+Invalid object name 'TempDB.Dbo.EmsNet_Dbase_PurchaseOrderV8_Details'.
+###############################################
+6885( Submit By : Sandeep) At (05.12.2023 11:46:16 AM)
+VCloud_InfoPool_AdditionalCharges{U)
+Invalid object name 'TempDB.Dbo.VCloud_InfoPool_AdditionalCharges'.
